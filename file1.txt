@@ -1,1 +1,2 @@
 File in gitbash
+Added text on git bash
